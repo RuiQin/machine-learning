@@ -1,1 +1,12 @@
 This repository contains my projects for course Machine Learning
+
+1. linear regression and classification
+For the linear regression, two algorithms are used: batch gradient descent and stochastic
+gradient descent algorithm.
+For the classification, two algorithms are used: batch perceptron and voted perceptron.
+
+2. naive bayes classifer
+Use naive bayes classifer for document classification, stop words were used to reduce vocabulary size and improve the classification result
+
+3. Bagging & AdaBoost
+Implement two ensemble methods: bagging and adaBoost
