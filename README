@@ -1,5 +1,6 @@
 This repository contains my projects for course Machine Learning
 
+
 1. linear regression and classification
 For the linear regression, two algorithms are used: batch gradient descent and stochastic gradient descent algorithm.
 For the classification, two algorithms are used: batch perceptron and voted perceptron.
